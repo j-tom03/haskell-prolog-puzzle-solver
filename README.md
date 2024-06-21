@@ -10,6 +10,6 @@ The puzzles are as follows:
 
 Each puzzle is solved using a *Tester-Generator* architecture. 
 
-I completed this project whilst undertaking the ECM218 module at the University of Exeter - full PDF specification can be found in *specification.pdf*
+I completed this project whilst undertaking the ECM2418 module at the University of Exeter - full PDF specification can be found in *specification.pdf*
 
 Grade - 100/100
